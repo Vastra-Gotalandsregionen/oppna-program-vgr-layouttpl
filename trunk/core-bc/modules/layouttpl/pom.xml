@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>se.vgregion.vgr-layouttpl</groupId>
 		<artifactId>vgr-layouttpl-core-bc</artifactId>
-		<version>1.0-SNAPSHOT</version>
+		<version>1.0</version>
 	</parent>
 	<groupId>se.vgregion.vgr-layouttpl</groupId>
 	<artifactId>vgr-layouttpl-core-bc-module-layouttpl</artifactId>
 	<packaging>war</packaging>
 	<name>vgr-layouttpl</name>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<build>
 		<finalName>vgr-layouttpl</finalName>
 		<plugins>
