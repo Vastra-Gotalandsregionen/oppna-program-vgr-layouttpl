@@ -11,12 +11,12 @@ Generation time : 2011-11-16 10:38:40 CET
   <parent>
     <groupId>se.vgregion.vgr-layouttpl</groupId>
     <artifactId>vgr-layouttpl-system</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
   </parent>
   <groupId>se.vgregion.vgr-layouttpl</groupId>
   <artifactId>vgr-layouttpl-core-bc</artifactId>
   <packaging>pom</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>${project.artifactId}</name>
 
   <modules>
